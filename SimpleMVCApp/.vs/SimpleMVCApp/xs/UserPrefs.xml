@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{BE94A39D-079C-4E53-B060-3327883D3EC0}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SimpleMVCApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleMVCApp/SimpleMVCApp.csproj">
+    <Files>
+      <File FileName="SimpleMVCApp/Views/_ViewImports.cshtml" />
+      <File FileName="SimpleMVCApp/Views/Shared/_Layout.cshtml" />
+      <File FileName="SimpleMVCApp/Controllers/HomeController.cs" Line="88" Column="7" />
+      <File FileName="SimpleMVCApp/Views/Home/Index.cshtml" />
+      <File FileName="SimpleMVCApp/Views/Home/Results.cshtml" />
+      <File FileName="SimpleMVCApp/Program.cs" Line="1" Column="1" />
+      <File FileName="SimpleMVCApp/SimpleMVCApp.csproj" Line="23" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleMVCApp" expanded="True">
+            <Node name="SimpleMVCApp" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

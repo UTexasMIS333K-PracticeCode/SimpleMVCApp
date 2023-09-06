@@ -1,0 +1,8 @@
+/Users/rkh393/Documents/MIS 333K Central/SimpleMVCApp/SimpleMVCApp/obj/Release/net7.0/PubTmp/Out/SimpleMVCApp
+/Users/rkh393/Documents/MIS 333K Central/SimpleMVCApp/SimpleMVCApp/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/rkh393/Documents/MIS 333K Central/SimpleMVCApp/SimpleMVCApp/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/rkh393/Documents/MIS 333K Central/SimpleMVCApp/SimpleMVCApp/obj/Release/net7.0/PubTmp/Out/libman.json
+/Users/rkh393/Documents/MIS 333K Central/SimpleMVCApp/SimpleMVCApp/obj/Release/net7.0/PubTmp/Out/SimpleMVCApp.dll
+/Users/rkh393/Documents/MIS 333K Central/SimpleMVCApp/SimpleMVCApp/obj/Release/net7.0/PubTmp/Out/SimpleMVCApp.deps.json
+/Users/rkh393/Documents/MIS 333K Central/SimpleMVCApp/SimpleMVCApp/obj/Release/net7.0/PubTmp/Out/SimpleMVCApp.runtimeconfig.json
+/Users/rkh393/Documents/MIS 333K Central/SimpleMVCApp/SimpleMVCApp/obj/Release/net7.0/PubTmp/Out/SimpleMVCApp.pdb
