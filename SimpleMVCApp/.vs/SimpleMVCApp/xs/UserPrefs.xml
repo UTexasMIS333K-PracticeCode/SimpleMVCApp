@@ -1,18 +1,17 @@
 ﻿<Properties StartupConfiguration="{BE94A39D-079C-4E53-B060-3327883D3EC0}|http">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.SimpleMVCApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="SimpleMVCApp/SimpleMVCApp.csproj">
     <Files>
       <File FileName="SimpleMVCApp/Views/_ViewImports.cshtml" />
       <File FileName="SimpleMVCApp/Views/Shared/_Layout.cshtml" />
-      <File FileName="SimpleMVCApp/Controllers/HomeController.cs" Line="88" Column="7" />
+      <File FileName="SimpleMVCApp/Controllers/HomeController.cs" />
       <File FileName="SimpleMVCApp/Views/Home/Index.cshtml" />
       <File FileName="SimpleMVCApp/Views/Home/Results.cshtml" />
-      <File FileName="SimpleMVCApp/Program.cs" Line="1" Column="1" />
-      <File FileName="SimpleMVCApp/SimpleMVCApp.csproj" Line="23" Column="8" />
+      <File FileName="SimpleMVCApp/Program.cs" />
+      <File FileName="SimpleMVCApp/SimpleMVCApp.csproj" Line="4" Column="26" />
+      <File FileName="SimpleMVCApp/appsettings.json" Line="1" Column="1" />
+      <File FileName="SimpleMVCApp/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="SimpleMVCApp/Properties/launchSettings.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -25,12 +24,17 @@
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SimpleMVCApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
